@@ -16,7 +16,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://anapuskitapus.github.io/44-grupe-death-star/
 
-Design: [Death-star](https://www.designbolts.com/wp-content/uploads/2015/12/Darth-vader-404-Page.jpg)
+Design: [DEATH-STAR](https://dribbble.com/shots/2424315-Daily-UI-008-404-Page/attachments/9293369?mode=media)
 
 ## 🎯 Project features/goals
 
